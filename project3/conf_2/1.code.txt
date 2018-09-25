@@ -1,0 +1,16 @@
+instr1	20
+instr2	30
+readM_4	100
+instr3	10
+readM_0	100
+instr4	30
+readM_4	100
+instr5	50
+readM_1	100
+instr6	20
+readM_4	100
+instr7	10
+readM_0	100
+instr8	10
+readM_4	100
+exit	10
